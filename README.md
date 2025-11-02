@@ -1,10 +1,10 @@
 # 7Vibhs
 **Full Stack Developer from Italy 🇮🇹**
-**Name:** 7Vibhs
-**Location:** Italy (CEST)
-**Role:** Full Stack Developer
-**Focus:** Web Development
-**Discord:** .lethals
+- **Name:** 7Vibhs
+- **Location:** Italy (CEST)
+- **Role:** Full Stack Developer
+- **Focus:** Web Development
+- **Discord:** .lethals
 
 
 ## Tech Stack
