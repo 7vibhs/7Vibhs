@@ -1,7 +1,5 @@
 # 7Vibhs
 **Full Stack Developer from Italy 🇮🇹**
-Building scalable web applications with clean code and modern technologies.
-## About
 **Name:** 7Vibhs
 **Location:** Italy (CEST)
 **Role:** Full Stack Developer
